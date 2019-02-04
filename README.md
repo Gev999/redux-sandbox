@@ -1,0 +1,1 @@
+Test application for understanding react + redux functionality
